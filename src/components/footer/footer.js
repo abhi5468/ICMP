@@ -6,7 +6,7 @@ import InstagramIcon from "@mui/icons-material/Instagram";
 import EmailIcon from "@mui/icons-material/Email";
 import PhoneIcon from "@mui/icons-material/Phone";
 import LocationOnIcon from "@mui/icons-material/LocationOn";
-import logo from "../../assets/images/logo.png"; // Adjust path if needed
+import logo from "../../assets/ipcm/LOGO1.png"; // Adjust path if needed
 
 const Footer = () => (
   <Box
@@ -124,7 +124,7 @@ const Footer = () => (
             </IconButton>
             <IconButton
               component="a"
-              href="https://instagram.com"
+              href="https://www.instagram.com/ipcm_solapur?utm_source=qr&igsh=ODlidnhlc3l4NXlj"
               target="_blank"
               rel="noopener noreferrer"
               sx={{
